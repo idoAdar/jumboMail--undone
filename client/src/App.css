@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App table {
+  margin: 0 auto;
+  width: 85%;
+  height: auto;
+}
+
+.App table th {
+  font-weight: 800 !important;
+  background-color: #26a8ff;
+  color: white;
+}
+
+.input {
+  height: 8vh;
+  display: flex;
+  margin: 2rem auto;
+  width: 20rem;
+}
+
+.input input {
+  height: 100%;
+}
+
+.input button {
+  background-color: #26a8ff;
+}
+
+.serach-field {
+  margin: 2rem auto !important;
+}
